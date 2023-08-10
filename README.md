@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammedAm1n
+- 👋 Hi, My name is Muhammed Amin 
 - 👀 I’m interested in ... Create Cross-Platform Apps
 - 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ...
