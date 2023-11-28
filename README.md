@@ -1,8 +1,7 @@
 - 👋 Hi, My name is Muhammed Amin 
-- 👀 I’m interested in ... Create Cross-Platform Apps
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... muhammedaminhawary@gmail.com
+-  I,m Graduated from Aou - Computer Science
+-  I’m a Flutter Developer 
+-  How to reach me ... muhammedaminhawary@gmail.com
 
 <!---
 MuhammedAm1n/MuhammedAm1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
